@@ -1,0 +1,21 @@
+.ref {
+position:absolute;
+top:560px;
+left:30px;
+width:930px;
+height:200px;
+font-size:8px;
+font-family:'PFCatalog_Regular';
+color:;
+z-index:1000;
+
+
+}
+
+.img{
+	width:1024px;
+	height:768px;
+	background: url(../images/img.jpg) no-repeat;
+	
+}
+.claim{background:none !important;}

@@ -1,0 +1,84 @@
+.ref {
+position:absolute;
+top:635px;
+left:93px;
+width:900px;
+height:200px;
+font-size:8px;
+font-family:'PFCatalog_Regular';
+color:;
+
+
+}
+
+
+
+.effect { left: 558px; top: 489px; z-index:5}
+.img{
+	width:380px;
+	height:416px;
+	background: url(../images/img.png) no-repeat;
+	top:150px;
+	left:140px;
+	text-align:center;
+	padding:176px 100px 0 0;
+	font-size:22px;
+}
+.cir{
+	background: url(../images/blue_bubble.png) no-repeat;
+	width:131px;
+	height:132px;
+	position:absolute;
+	top: 277px;
+	left:35px;
+	text-align:center;
+	padding:35px 50px 0 0px;
+	color:#fff;
+	font-size:18px;
+}
+.lable{
+	background: url(../images/lable.png) no-repeat;
+	width:392px;
+	height:49px;
+	padding:15px 0 0 120px;
+	font-size:20px;
+	position:absolute;
+	top:130px;
+	right:-80px;
+	}
+	
+.exp_txt_box{
+	width:280px;
+	height:0px;
+	background: rgba(64, 85, 144, 0.6); ;
+	position:absolute;
+	top:179px;
+	right:60px;
+	border-bottom-left-radius:15px;
+	border-bottom-right-radius:15px;
+}
+.exp_txt_box.ani {
+    height: 340px;
+    -webkit-transition: all ease 0.5s;
+}
+.exp_txt{
+	font-size:12px;
+	position:absolute;
+	right: 79px;
+	top: 180px;
+	display: none;
+}
+.exp_txt ul li{
+	background: url(../images/ico.png)0 2px no-repeat;
+	padding-left:20px;
+	margin:10px 0 15px 10px;
+	list-style: none;
+}
+.note_txt{
+	font-size:12px;
+	position:absolute;
+	right:180px;
+	bottom:230px;
+}
+
+.sup_special { padding-left: 2px; }
